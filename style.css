@@ -15,3 +15,36 @@ h1 {
     vertical-align: -15px;
 }
 
+main {
+    background-color: #F7f8fa;
+}
+
+div {
+    width: 80%;
+    padding:50px 0px 500px 0px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: white;
+}
+
+menu {
+    border-bottom: 3px solid #f7f8fa;
+}
+
+button {
+    padding: 7px;
+    border-radius: 10%;
+    }
+
+#task {
+    margin-left: 50px;
+    background-color: #4dacea;
+    color: white;
+    border: 2px solid #4dacea;
+}
+
+#section {
+    background-color: white;
+    color: lightgray;
+    border: 2px solid lightgray;
+}
