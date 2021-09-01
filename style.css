@@ -28,12 +28,14 @@ div {
 }
 
 menu {
+    padding-bottom: 10px;
     border-bottom: 3px solid #f7f8fa;
 }
 
 button {
     padding: 7px;
     border-radius: 10%;
+
     }
 
 #task {
@@ -48,3 +50,68 @@ button {
     color: lightgray;
     border: 2px solid lightgray;
 }
+
+section {
+    margin-top: 40px;
+    margin-left: 50px;
+}
+
+span {
+    border-radius: 100%;
+    border: 2px solid;
+    padding: 0px;
+}
+
+.check {
+    color: green;
+}
+
+.cross {
+    color: red;
+}
+
+.more {
+    border-radius: 10%;
+    padding: 4px;
+    color: white;
+}
+
+.editorial {
+    background-color: #4dacea;
+    color: white;
+    border-color: #4dacea;
+}
+
+.Q1 {
+    background-color: #9d71e7;
+    color: white;
+    border-color: #9d71e7;
+}
+
+.recruitting {
+    background-color: #60c2a9;
+    color: white;
+    border-color: #60c2a9;
+
+}
+
+.mobile {
+    background-color: #f19f31;
+    color: white;
+    border-color: #f19f31;
+}
+
+.website {
+    background-color: #d67eab;
+    color: white;
+    border-color: #d67eab;
+}
+
+.sales {
+    background-color: #c7d665;
+    color: white;
+    border-color: #c7d665;
+}
+
+
+ 
